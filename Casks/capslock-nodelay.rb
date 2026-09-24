@@ -1,6 +1,6 @@
 cask "capslock-nodelay" do
-  version "1.0"
-  sha256 "eb3937e3dd779abe090fac1d1bd6a3e5f92958b48ace77f7ba8cdce7431de35f"
+  version "1.0.1"
+  sha256 "adf863be70ad2a8c54ee95fadbcc15ea84446003328d7a92c9eec39a305f2aeb"
 
   url "https://github.com/miokung/CapsLock-NoDelay/releases/download/v#{version}/CapsLock-NoDelay-#{version}.dmg"
   name "CapsLock NoDelay"
